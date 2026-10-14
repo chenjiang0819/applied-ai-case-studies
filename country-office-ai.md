@@ -1,24 +1,23 @@
 # Country Office AI Pilots and Advisory
 
-Status: **Pilot support and technical advisory**.
+Pilot support, architecture advisory and solution design.
 
 ## Problem
-Country Office initiatives require technical requirements, architecture and governance support.
+
+Country Office initiatives need technical requirements, application architecture and governance to move AI work forward.
 
 ## My Role
-I advance AI pilots and technical advisory across Country Office contexts.
+
+I advance AI pilots and technical advisory, translating requirements into work packages and coordinating application, data and infrastructure dependencies.
 
 ## What I Built
-Supported the Vietnam AI Ambassador pilot and 2025 Human Development Report launch, Mozambique digital-platform architecture and governance advisory, and Rwanda AI-workstation solution design.
 
-## Technical Decisions
-Translated requirements into technical work packages and coordinated application, data and infrastructure dependencies, as described in the public profile.
+Supported the Vietnam AI Ambassador pilot and 2025 Human Development Report launch, provided Mozambique digital-platform architecture and governance advisory, and developed Rwanda AI-workstation solution design.
+
+## Engineering Decisions
+
+Matched technical work to each initiative: pilot support in Vietnam, architecture and governance advisory in Mozambique, and workstation solution design in Rwanda.
 
 ## Outcome
-The public baseline distinguishes pilot work, advisory and solution design. It does not establish broad production rollout or measured outcomes for all offices.
 
-## Constraints and Responsible Deployment
-Only already-public country and initiative references are used. No nonpublic office information, documents, endpoints or meeting notes are included.
-
-## Public Disclosure Note
-Personal technical narrative by Chen Jiang; not an official employer repository or institutional endorsement. Facts are bounded by [Chen Jiang’s public LinkedIn profile](https://www.linkedin.com/in/chenjiangprofile), as represented by the owner-supplied Profile.pdf export reviewed on 14 October 2026. The export is a user-provided public factual baseline, not independently verified deployment evidence. No employer source, internal configuration, credentials or confidential material is distributed.
+Contributed technical delivery to the Vietnam pilot and launch, and advanced the Mozambique advisory and Rwanda solution-design work.

@@ -1,24 +1,23 @@
 # Lucy Sentinel
 
-Status: **Deployed and operated; scope as described publicly**.
+Deployed and operated.
 
 ## Problem
-A multi-service AI system needed stable deployment and safe handling of live incidents.
+
+A multi-service AI security-monitoring system needed stable application deployment and controlled changes during live operations.
 
 ## My Role
-I direct engineering and operational delivery while remaining hands-on.
+
+I direct engineering and operational delivery while remaining hands-on with deployment and incident response.
 
 ## What I Built
-Stabilized and deployed Lucy Sentinel on Azure with Docker Compose and HAProxy, and on Kubernetes with kind.
 
-## Technical Decisions
-Used canary validation, rollback protection and selective rollout when responding to live incidents. These are public techniques, not a disclosure of private system topology.
+Stabilized and deployed Lucy Sentinel on Azure using Docker Compose and HAProxy. I also validated Kubernetes deployment with kind.
+
+## Engineering Decisions
+
+Used canary validation, rollback protection and selective rollout to handle live incidents and control application changes.
 
 ## Outcome
-Deployment and incident-handling responsibilities are described in the public profile. No new availability, scale or performance measurement is claimed here.
 
-## Constraints and Responsible Deployment
-No private deployment files, service maps, incident logs or employer code are included.
-
-## Public Disclosure Note
-Personal technical narrative by Chen Jiang; not an official employer repository or institutional endorsement. Facts are bounded by [Chen Jiang’s public LinkedIn profile](https://www.linkedin.com/in/chenjiangprofile), as represented by the owner-supplied Profile.pdf export reviewed on 14 October 2026. The export is a user-provided public factual baseline, not independently verified deployment evidence. No employer source, internal configuration, credentials or confidential material is distributed.
+The system was stabilized and deployed, with continuing engineering and incident-response ownership.
